@@ -1,0 +1,80 @@
+*{
+   color: rgb(255, 255, 255);
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: #10102e;
+}
+
+h1{
+    margin-top: 2rem;
+    text-align: center;
+    font-size: larger;
+}
+
+#gluteo{
+    background-image: url(img/Gluteo.png);
+    background-size: cover; /* Mostra a imagem inteira */
+    background-repeat: no-repeat; /* Evita repetição da imagem */
+    background-position: center; /* Centraliza a imagem */
+    filter: brightness(0.8); /* Deixa a imagem 20% mais escura */
+}
+
+#pernas{
+    background-image: url(img/Pernas.webp);
+    background-size: cover; /* Mostra a imagem inteira */
+    background-repeat: no-repeat; /* Evita repetição da imagem */
+    background-position: center; /* Centraliza a imagem */
+    filter: brightness(0.8); /* Deixa a imagem 20% mais escura */
+}
+
+#superiores{
+    background-image: url(img/Superiores.webp);
+    background-size: cover; /* Mostra a imagem inteira */
+    background-repeat: no-repeat; /* Evita repetição da imagem */
+    background-position: center; /* Centraliza a imagem */
+    filter: brightness(0.8); /* Deixa a imagem 20% mais escura */
+}
+
+.treino p, h2{
+    font-weight: 700;
+}
+
+
+
+.treino{
+    padding: 6%;
+    border-radius: 30px;
+    justify-content: space-between;
+    max-width: 100%;
+    max-height: 100%;
+    margin: 5%;
+    margin-top: 10%;
+    display: flex;
+    flex-direction: row;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.btn {
+    font-weight: 700;
+    margin-top: 15px;
+    color: #10102e;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center; /* Centraliza horizontalmente */
+    background-color: aliceblue;
+    border-radius: 50%;
+    height: 5rem;
+    width: 5rem;
+    font-size: 2rem; /* Ajusta o tamanho do símbolo */
+    line-height: 1; /* Evita que o texto tenha espaçamento vertical adicional */
+    text-align: center; /* Garante centralização do texto */
+}
+
+
+
+
+
+
