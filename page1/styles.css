@@ -18,7 +18,7 @@ h1{
     background-size: cover; /* Mostra a imagem inteira */
     background-repeat: no-repeat; /* Evita repetição da imagem */
     background-position: center; /* Centraliza a imagem */
-    filter: brightness(0.8); /* Deixa a imagem 20% mais escura */
+    
 }
 
 #pernas{
@@ -26,7 +26,7 @@ h1{
     background-size: cover; /* Mostra a imagem inteira */
     background-repeat: no-repeat; /* Evita repetição da imagem */
     background-position: center; /* Centraliza a imagem */
-    filter: brightness(0.8); /* Deixa a imagem 20% mais escura */
+   
 }
 
 #superiores{
@@ -34,7 +34,7 @@ h1{
     background-size: cover; /* Mostra a imagem inteira */
     background-repeat: no-repeat; /* Evita repetição da imagem */
     background-position: center; /* Centraliza a imagem */
-    filter: brightness(0.8); /* Deixa a imagem 20% mais escura */
+    
 }
 
 .treino p, h2{
